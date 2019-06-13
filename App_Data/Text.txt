@@ -1,0 +1,23 @@
+﻿<html>
+	<head>
+		<style>
+			div{
+				color: #6666FF;
+			}
+		</style>
+		<h1>
+		Xin chào </br>
+			Đây là thông tin của bạn vừa gửi cho chúng tôi : </br>
+		</h1>
+	</head>
+	<body>
+		<div>
+			
+			Tên: ##Name## </br>
+			Email: ##Email## </br>
+			Số điện thoại cá nhân : ##HomePhone## </br>
+			Số điện thoại cơ quan : ##BusinessPhone## </br>
+			Chú thích : ##Comments## </br>
+		</div>
+	</body>
+</html>

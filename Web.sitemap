@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Default.aspx" title="Home"  description="Home">
+    <siteMapNode url="~/Content.aspx" title="Trang chủ"  description="đi tới trang chủ" />
+    <siteMapNode url="~/Introduct.aspx" title="Giới thiệu" description="đi tới trang giới thiệu" />
+    <siteMapNode url="https://www.facebook.com/SummonerswarVietnam/?brand_redir=1443603692553498" title="Cộng đồng"  description="đi tới trang cộng đồng"/>   
+    <siteMapNode url="https://www.summonerswarmonsters.com/news" title="Tin tức" description="đi tới trang tin tức"/>
+    <siteMapNode url="https://www.summonerswarmonsters.com/events" title="Sự kiện"  description="đi tới trang sự kiện"/>
+    <siteMapNode url="~/About/Contact.aspx" title="Liên Hệ"  description="đi tới trang hỗ trợ "/>
+  </siteMapNode>
+</siteMap>
