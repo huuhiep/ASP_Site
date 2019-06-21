@@ -43,10 +43,11 @@
 
 ![img](Picture/userok.png)
 
+## Tài khoản sau khi đã đăng ký sẽ được lưu trong cơ sở dữ liệu
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/65254371_380380172835701_3528864500419657728_n.png?_nc_cat=103&amp;_nc_oc=AQnuTddjvUgI43nf-zr1AVhB6c099o63VQGGu1bNqzCnxrVwHtaCzh11ZCdXU9hbPPQ&amp;_nc_ht=scontent.fdad1-1.fna&amp;oh=81ebb187c4e3e4834836d06abb028823&amp;oe=5D8CE54F" alt="" class="img" style="width: 1059px; height: 285px;">
+
 ## Sau khi đã tạo tài khoản thành công,hãy quay trở lại trang chủ để đăng nhập tài khoản vừa tạo
 
 ![img](Picture/loginuser.png)
 
 ![img](Picture/loginsuccess.png)
-
-<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/64562001_317976042422863_5801417656208719872_n.png?_nc_cat=111&amp;_nc_oc=AQkGvzF9bVgkgFnoqTjx2jNvKu5f9HrGV204I59KvEws_tqzLO5zaF58Vkg4HGj53aU&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=029db5da629119d80722d70126d3404d&amp;oe=5D820559" alt="" class="img" style="width: 1059px; height: 596px;">
